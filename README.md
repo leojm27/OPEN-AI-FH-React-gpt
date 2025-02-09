@@ -49,3 +49,16 @@ export default tseslint.config({
 })
 ```
 # OPEN-AI-FH-React-gpt
+
+## extension recomendada
+- PostCSS Language Support
+
+
+## Crear proyecto React con Vite, y config tailwindcss
+
+- npm create vite@latest 
+  - nos solicitara nombre de proyecto, y tecnologia.
+- npm install
+- seguir instalacion de Tailwind https://tailwindcss.com/docs/installation/using-vite
+
+

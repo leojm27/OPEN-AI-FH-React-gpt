@@ -1,13 +1,11 @@
-import React from 'react'
+import React from "react";
 
 const ReactGPT = () => {
   return (
-    <div>
-      <h1 className='text-3xl font-bold underline'>
-        React Gpt
-      </h1>
-    </div>
-  )
-}
+    <h1 className="text-3xl font-thin underline">
+    Hello world!
+  </h1>
+  );
+};
 
-export default ReactGPT
+export default ReactGPT;
